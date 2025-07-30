@@ -10,20 +10,7 @@ It includes:
 
 ---
 
-## 🗂️ Project Structure
-
-├── my_linear_reg.py # Custom Linear Regression class (fit, predict, metrics)
-├── data_split.py # Custom train-test split function
-├── ice_cream_sales/
-│ ├── app.py # FastAPI app for prediction demo
-│ ├── ice_cream_sales_analysis.ypynb jupyter nb for this mini porject
-│ ├── icecream_model.pkl # Saved trained model
-│ ├── temperature_icecream_data.csv # Dataset for demo
-│ └── templates/
-│ └── form.html # Jinja2 template for user input
-├── requirements.txt # Dependencies (no scikit-learn)
-└── README.md # You are here
-
+<pre> linear-regression-from-scratch_with_mini_project/ ├── my_linear_reg.py # Custom Linear Regression class (fit, predict, metrics) ├── data_split.py # Custom train-test split function ├── ice_cream_sales/ │ ├── app.py # FastAPI app for prediction demo │ ├── ice_cream_sales_analysis.ipynb # Jupyter notebook for this mini project │ ├── icecream_model.pkl # Saved trained model │ ├── temperature_icecream_data.csv # Dataset for demo │ └── templates/ │ └── form.html # Jinja2 template for user input ├── requirements.txt # Dependencies (no scikit-learn) └── README.md # You are here </pre>
 ---
 
 ## 🔧 Custom ML Implementation
