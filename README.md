@@ -101,7 +101,7 @@ Implementing math directly in Python/NumPy
 
 Visualizing and deploying a real-world use case
 
-🧠 Author
+## 🧠 Author
 Built  by Asif Marwat
 
 ````
