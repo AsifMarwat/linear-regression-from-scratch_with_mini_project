@@ -64,13 +64,6 @@ The `ice_cream_sales/` folder contains a minimal FastAPI web app that:
 
 ### 🌐 Run Locally
 
-````bash
-cd ice_cream_sales
-uvicorn app:app --reload
-
-
----
-
 ## 🚀 How to Run
 
 ### 1. Clone the repo
