@@ -1,0 +1,9 @@
+# Core ML logic
+numpy
+pandas
+matplotlib
+
+# For mini FastAPI project
+fastapi
+uvicorn
+jinja2
